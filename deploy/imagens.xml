@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="utf-8"?>
+<arqueiro>
+  <imagens>
+    <imagem nome="Arqueiro_Parado" arquivo="imagens/Arqueiro_Parado.png"/>
+    <imagem nome="Arqueiro_EmPosicao" arquivo="imagens/Arqueiro_EmPosicao.png"/>
+    <imagem nome="Flecha_NaoAtirada" arquivo="imagens/Flecha_NaoAtirada.png"/>
+    <imagem nome="Flecha_Movendo" arquivo="imagens/Flecha_Movendo.png"/>
+    <imagem nome="Flecha_Menu" arquivo="imagens/Flecha_Menu.png"/>
+    <imagem nome="Monstro_Andando" arquivo="imagens/Monstro_Andando.gif"/>
+    <imagem nome="Monstro_Morto" arquivo="imagens/Monstro_Morto.gif"/>
+    <imagem nome="Monstro_Pequeno" arquivo="imagens/Monstro_Pequeno.gif"/>
+    <imagem nome="Moedas" arquivo="imagens/Moedas.png"/>
+    <imagem nome="Arqueiro_Coracao" arquivo="imagens/Arqueiro_Coracao.png"/>
+    <imagem nome="Game_Over" arquivo="imagens/Game_Over.png"/>
+    <imagem nome="Arqueiro_Seletor" arquivo="imagens/Arqueiro_Seletor.png"/>
+    <imagem nome="Menu" arquivo="imagens/Menu.png"/>
+    <imagem nome="Creditos" arquivo="imagens/Creditos.png"/>
+    <imagem nome="Recordes" arquivo="imagens/Recordes.png"/>
+
+  </imagens>
+  <animacoes>
+    <animacao nome="Arqueiro_Atirando" looping="false">
+      <frame duracao="20" arquivo="imagens/Arqueiro_Atirando_1.png"/>
+      <frame duracao="20" arquivo="imagens/Arqueiro_Atirando_2.png"/>
+      <frame duracao="20" arquivo="imagens/Arqueiro_Atirando_3.png"/>
+    </animacao>
+    <animacao nome="Arqueiro_Recarregando" looping="false">
+      <frame duracao="10" arquivo="imagens/Arqueiro_Recarregando1.png"/>
+      <frame duracao="10" arquivo="imagens/Arqueiro_Recarregando2.png"/>
+      <frame duracao="10" arquivo="imagens/Arqueiro_Recarregando3.png"/>
+      <frame duracao="10" arquivo="imagens/Arqueiro_Recarregando4.png"/>
+      <frame duracao="10" arquivo="imagens/Arqueiro_Recarregando5.png"/>
+      <frame duracao="10" arquivo="imagens/Arqueiro_Recarregando6.png"/>
+      <frame duracao="10" arquivo="imagens/Arqueiro_Recarregando7.png"/>
+      <frame duracao="10" arquivo="imagens/Arqueiro_Recarregando8.png"/>
+    </animacao>
+  </animacoes>
+</arqueiro>
